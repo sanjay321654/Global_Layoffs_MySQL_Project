@@ -1,4 +1,4 @@
-# Global_Layoffs_MySQL_Project
+# Data-Driven Insights on Global Layoffs (2020-2023) A MySQL-based Exploratory Analysis and Cleaning Project
 
 ## Project Overview
 This project involves cleaning, organizing, and analyzing global layoffs data from 2020 to 2023 using MySQL.
